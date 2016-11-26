@@ -7,7 +7,7 @@ tag:
 - TOEFL
 - Writing Score
 blog: true
-author: Zhanchao Yu
+author: zhanchao
 description: Toefl writing score analysis
 ---
 
