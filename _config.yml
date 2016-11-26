@@ -106,9 +106,5 @@ gems:
   - jekyll-gist
   - jekyll-paginate
 
-#jekyll-mentions:
-<<<<<<< HEAD
-    #base_url: https://github.com
-=======
-  #  base_url: https://github.com
->>>>>>> 7ff5cb4bdae8f9056b4c0d5e56d83232cf8d2f9c
+jekyll-mentions:
+    base_url: https://github.com
