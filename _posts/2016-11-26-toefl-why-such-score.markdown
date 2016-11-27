@@ -1,5 +1,5 @@
 ---
-title: "Why did I get such score"
+title: "我这么努力，为啥考这个分儿？"
 layout: post
 date: 2016-11-26 11:25
 headerImage: false

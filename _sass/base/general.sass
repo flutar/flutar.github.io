@@ -46,8 +46,8 @@ p
 		letter-spacing: 0.2px
 
 strong
-	font-weight: 400
-	color: $alpha
+	font-weight: 600
+	color: #56309c
 
 
 ul,
@@ -83,9 +83,15 @@ figcaption
 
 blockquote
 	padding-left: 5px
-	border-left: 3px solid #eee
+	border-left: 5px solid #eee
 	text-align: justify
-	margin: 0 !important 
+	margin: 0 
+
+blockquote
+	p
+		color: #666
+		font-style: italic
+
 
 hr
 	border: none
@@ -98,16 +104,6 @@ figure.highlight
 	width: 100%
 	margin: 0
 
-code
-	padding: 1px 0
-	font-family: "Microsoft Yahei"
-	font-size: 14px
-	line-height: 20px
-	border-radius: 2px
-	border-radius: 2px
-	color: #a8a8a8
-	line-height: 2
-
 pre
 	box-sizing: border-box
 	margin: 0 0 1.75em 0
@@ -117,11 +113,26 @@ pre
 	font-size: 1.2rem
 	line-height: 2rem
 	overflow: auto
-	background: black
+	background: #eee
 	border: 1px solid $epsilon
 	border-radius: 2px
 	white-space: pre-wrap
 	word-wrap: break-word
+
+pre 
+	code 
+		background-color: #eee
+
+code
+	padding: 1px 0
+	font-family: "Microsoft Yahei"
+	font-size: 14px
+	line-height: 20px
+	border-radius: 2px
+	border-radius: 2px
+	color: #444
+	line-height: 2
+	background-color: #fee9cc
 
 .wrapper-normal,
 .wrapper-large
