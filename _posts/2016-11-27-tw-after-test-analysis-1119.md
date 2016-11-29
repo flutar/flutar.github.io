@@ -52,13 +52,16 @@ When professor gives the assignment to require student learn as much as possible
 先介绍Domestication的原理和方式，然后说 Early farmers will choose to domesticate oak trees. 
 
 **阅读部分**
-- Oak trees are very easy to be domesticated because it is hardy, thus it needs very little care. 
-- Acorn is a very convenient food source since it is easy to be stored and preserved and it’s not easy to spoil. 
-- Acorn has an unpleasant and bitter taste, but farmers can use the same strategy that they use to eliminate the bitter taste in Almond. Early farmers can keep picking out the almonds that taste less bitter and keep domesticating the better tasted almonds, and then they’ll get the almonds that don’t taste bitter. 
+
+* Oak trees are very easy to be domesticated because it is hardy, thus it needs very little care. 
+* Acorn is a very convenient food source since it is easy to be stored and preserved and it’s not easy to spoil. 
+*  Acorn has an unpleasant and bitter taste, but farmers can use the same strategy that they use to eliminate the bitter taste in Almond. Early farmers can keep picking out the almonds that taste less bitter and keep domesticating the better tasted almonds, and then they’ll get the almonds that don’t taste bitter. 
 
 **听力部分**
+
 - It’s true that oak trees are hardy. But it takes very long time for them to grow and fruit. It usually needs 40 years for the oak trees to grow up and no farmer is willing to wait that long. 
 - Acorn has some chemicals in it which make acorns not edible. In order to get rid of these chemicals and eat the acorn, one has to boil them in the hot water for a long time. And after being boiled, acorns are very easy to decay. It takes one a lot of efforts to prepare and eat the acorn. So it can not be a very convenient food source. 
 - The reason why farmers can get rid of the bitter taste in the almond is that almond only has one gene that contributes to the unpleasant taste. But there are several different genes in acorn that make it bitter. It might be easy for farmers today to use the modern genetic methods to cultivate acorns that taste more pleasant. But it is impossible for the early farmers to domesticate and get acorns taste better simply using the technique that’s effective on almonds. 
 
 >**分析** 这又是一个非常经典的`理论证明题`，此类题目无非就是从`证据本身或者从推理的角度`来进行反驳，比如第一个点，听力承认了阅读给的证据是对的，但是指出阅读考虑的比较片面的地方；第二个点直接就攻击证据本身，阅读说方便，而听力上来就说不方便，然后给出证据论证不方便的原因；第三个点就是一个极其典型的错误的横向类比，大家只要看到作者试图通过一个做法适用于A推出也试用于B的话，肯定就是这个错误。听力必然会给出二者的不同点。而正是这些不同点导致阅读的说法是有问题的。
+
