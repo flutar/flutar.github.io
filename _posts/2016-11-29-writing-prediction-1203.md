@@ -1,21 +1,21 @@
-
-
 ---
 title: "12月3日托福写作机经"
 layout: post
-date: 2016-11-29 15:38
+date: 2016-11-29 11:41
 headerImage: false
 tag:
 - 托福写作
 - 写作机经
 blog: true
 author: zhanchao
-description: 托福写作12月3日小范围机经
+description: 12月3日托福写作机经
 ---
+
+#### 独立写作
 
 如果大家有任何问题，欢迎大家参加考前**周四晚19：30分**的考前写作点题，我会带着大家一起串讲一下这些题目的思路。如果大家需要详细的答案，可以参加我们的考前机经冲刺课程。
 
-如果大家需要写作素材和句式，欢迎访问我们的博客：[blog.yuzhoutuofu.com](blog.yuzhoutuofu.com)
+如果大家需要写作素材和句式，欢迎访问我们的博客：[点我查看](http://blog.yuzhoutuofu.com)
 
 > **使用方法和建议**
 
