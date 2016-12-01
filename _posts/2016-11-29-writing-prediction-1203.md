@@ -17,12 +17,15 @@ description: 12月3日托福写作机经
 
 如果大家需要写作素材和句式，欢迎访问我们的博客：[点我查看](http://blog.yuzhoutuofu.com)
 
-> **使用方法和建议**
+**使用方法和建议**
 
-> 机经只是我们用来跟同学们介绍方法的工具哈。我们无法保证每次机经都有原题，但是我可以保证不管考啥题目咱们的方法必然是通用的。强烈建议考前心理没啥底的同学参加一下我们的考前机经冲刺班：
+机经只是我们用来跟同学们介绍方法的工具哈。我们无法保证每次机经都有原题，但是我可以保证不管考啥题目咱们的方法必然是通用的。强烈建议考前心理没啥底的同学参加一下我们的考前机经冲刺班：
 
-> 1.拿到机经题目的答案，包括独立写作部分的模板和示范
-> 2.认真观看2011-2015年真题串讲视频，通过小范围机经讲方法，然后通过五年的真题约200题熟悉方法的使用。既然咱都说方法是通用得了，总得证明一下吧。哈哈。既然这么多题目看过了，考前相信大家就不会太慌乱了。祝大家好运。
+```
+1.拿到机经题目的答案，包括独立写作部分的模板和示范
+2.认真观看2011-2015年真题串讲视频，通过小范围机经讲方法，然后通过五年的真题约200题熟悉方法的使用。既然咱都说方法是通用得了，总得证明一下吧。哈哈。既然这么多题目看过了，考前相信大家就不会太慌乱了。祝大家好运。
+
+```
 
 1. Governments should spend more money in support of the arts than in athletics.
 2. In times of economic crisis, local governments often reduce the money they spend in some areas. In your opinion, if a local government is facing economic problems, which of the following areas should it spend less money on? Libraries, public transportation, or police?
