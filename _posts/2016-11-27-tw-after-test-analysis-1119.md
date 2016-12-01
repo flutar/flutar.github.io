@@ -14,7 +14,7 @@ description: 托福写作考后详细分析及段子套用
 #### 独立写作
 
 ```
-When professor gives the assignment to require student learn as much as possible in a short time, which method is more effective? Sdtudying together in a group or studying alone.
+When professor gives the assignment to require student learn as much as possible in a short time, which method is more effective? Studying together in a group or studying alone.
 ```
 
 
