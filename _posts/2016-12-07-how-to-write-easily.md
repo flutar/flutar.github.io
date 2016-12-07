@@ -54,7 +54,9 @@ Mweb 下载链接：[点我下载](http://zh.mweb.im/)
 在填信息的时候，请大家按照下图的内容来填：
 
 **Access key** `jCV77M4XU9N-LXR1-hGvCxBa-kgfYBELHq5bVqOH`
+
 **Secret key** `xcegiBKr75-hRiGAt1MjPUPQVtSPijXvxhyHUoIr`
+
 **image url prefix** `http://ohp995ej1.bkt.clouddn.com/`
 
 ![](http://ohp995ej1.bkt.clouddn.com/14811089443181.jpg)
