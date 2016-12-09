@@ -1,74 +1,79 @@
-<p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="http://sergiokopplin.github.io/indigo/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/indigo"><img src="https://camo.githubusercontent.com/5393485b732749b3499264168fa8af60166071e8/68747470733a2f2f7472617669732d63692e6f72672f73657267696f6b6f70706c696e2f696e6469676f2e7376673f6272616e63683d67682d7061676573" alt="Build Status" data-canonical-src="https://travis-ci.org/sergiokopplin/indigo.svg?branch=gh-pages" style="max-width:100%;"></a></h2>
-</p>
+# 码志
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
 
-***
+## 概览
 
-<p align="center">
-    <b><a href="README.md#what-has-inside">What has inside?</a></b>
-    |
-    <b><a href="README.md#setup">Setup?</a></b>
-    |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#how-to">How to</a></b>
-    |
-    <b><a href="README.md#tests">Tests</a></b>
-</p>
+<!-- vim-markdown-toc GFM -->
+* [效果预览](#效果预览)
+* [Fork 指南](#fork-指南)
+* [贴心提示](#贴心提示)
+* [经验与思考](#经验与思考)
+* [致谢](#致谢)
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
+<!-- vim-markdown-toc -->
 
-## What has inside?
+## 效果预览
 
-- [Jekyll](https://jekyllrb.com/), [Gulp](http://gulpjs.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
-- Tests with [Travis](https://travis-ci.org/)
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
+**[在线预览 &rarr;](http://mazhuang.org)**
 
-## Setup
+![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
 
-0. :star: to the project. :metal:
-1. [Install Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-3. Edit `_config.yml` with your data.
-4. `bundle install`
-5. `npm run serve`
-6. open in your browser: `http://localhost:4000`
+## Fork 指南
 
-## Settings
+Fork 本项目之后，还需要做一些事情才能让你的页面「正确」跑起来。
 
-You must fill some informations on `_config.yml` to customize your site.
+1. 正确设置项目名称与分支。
 
-```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
-...
+   按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的 master 分支，或者其它名称的项目的 gh-pages 分支可以自动生成 GitHub Pages 页面。
 
-and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
-```
+2. 修改域名。
 
-## How to:
+   如果你需要绑定自己的域名，那么修改 CNAME 文件的内容；如果不需要绑定自己的域名，那么删掉 CNAME 文件。
 
-- Article: How to Install Jekyll - by [Arti Annaswamy](https://github.com/aannasw). [Part 1](http://artiannaswamy.com/build-a-github-blog-part-1) and [Part 2](http://artiannaswamy.com/build-a-github-blog-part-2)
-- [Emojis in the projects list?](https://github.com/sergiokopplin/indigo/issues/72)
-- [Nokogiri dependencie problems?](https://github.com/sergiokopplin/indigo/issues/81)
-- [Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
-- [Tests with Travis CI - Tutorial](http://www.raywenderlich.com/109418/travis-ci-tutorial)
-- [Why Sass?](https://github.com/sergiokopplin/indigo/issues/117)
+3. 修改配置。
 
-## Tests
+   网站的配置基本都集中在 \_config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 title、subtitle、duoshuo 和 Disqus 的用户名等。
 
-You can test your app with:
+   **注意：** 因为 Disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus\_username 修改成你自己的。我对该缺陷的记录见 [Issues#2][3]。
 
-```bash
-npm run test
-```
+4. 删除我的文章与图片。
 
----
+   如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
 
-[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
+   * \_posts 文件夹中是我已发布的博客文章。
+   * \_drafts 文件夹中是我尚未发布的博客文章。
+   * \_wiki 文件夹中是我已发布的 wiki 页面。
+   * images 文件夹中是我的文章和页面里使用的图片。
+
+5. 修改「关于」页面。
+
+   pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息。
+
+## 贴心提示
+
+1. 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
+
+2. 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
+
+## 经验与思考
+
+* 简约，尽量每个页面都不展示多余的内容。
+
+* 有时一图抵千言，有时可能只会拖慢网页加载速度。
+
+* 言之有物，不做无痛之呻吟。
+
+* 如果写技术文章，那先将技术原理完全理清了再开始写，一边摸索技术一边组织文章效率较低。
+
+* 杜绝难断句、难理解的长句子，如果不能将其拆分成几个简洁的短句，说明脑中的理解并不清晰。
+
+* 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
+
+## 致谢
+
+本博客外观基于 [DONGChuan](http://dongchuan.github.io) 修改，感谢！
+
+[1]: https://github.com/mzlogin/chinese-copywriting-guidelines
+[2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
+[3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
