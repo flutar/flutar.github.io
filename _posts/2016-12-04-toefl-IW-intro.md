@@ -1,14 +1,9 @@
 ---
-title: "独立写作开头的写法"
 layout: post
-date: 2016-12-4 9:37
-headerImage: false
-tag:
-- 托福写作
-- 写作开头
-blog: true
-author: zhanchao
-description: 托福独立写作开头的写法
+title: "托福写作开头段的写法"
+categories: [托福写作]
+description: 托福写作开头段的写法
+keywords: 托福写作开头
 ---
 
 ```

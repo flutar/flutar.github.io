@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "12月10.11日托福写作机经"
-categories: [托福写作, 托福写作机经]
+categories: [托福写作]
 description: 12月10.11日托福写作机经
-keywords: 托福写作机经思路
+keywords: 托福写作机经
 ---
 
 ### 独立写作

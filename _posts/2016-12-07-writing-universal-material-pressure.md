@@ -1,15 +1,11 @@
 ---
-title: "独立写作万能理由之压力"
 layout: post
-date: 2016-12-7 9:59
-headerImage: false
-tag:
-- 托福写作
-- 写作素材
-blog: true
-author: zhanchao
+title: "独立写作万能理由之压力"
+categories: [托福写作]
 description: 托福写作万能理由之压力
+keywords: 托福写作万能理由之素材
 ---
+
 
 ### 独立写作满分必备万能理由之压力
 

@@ -1,14 +1,9 @@
 ---
-title: "12月3日托福写作机经"
 layout: post
-date: 2016-11-29 11:41
-headerImage: false
-tag:
-- 托福写作
-- 写作机经
-blog: true
-author: zhanchao
+title: "12月3日托福写作机经"
+categories: [托福写作]
 description: 12月3日托福写作机经
+keywords: 托福写作机经
 ---
 
 #### 独立写作

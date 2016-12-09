@@ -1,14 +1,9 @@
 ---
-title: "12月3日写作考后分析"
 layout: post
-date: 2016-12-3 14:34
-headerImage: false
-tag:
-- 托福写作
-- 写作真题
-blog: true
-author: zhanchao
-description: 2016年12月3日写作考后分析
+title: "托福写作12月3日写作考后分析"
+categories: [托福写作]
+description: 托福写作12月3日写作考后分析
+keywords: 托福写作考后分析
 ---
 
 #### 独立写作

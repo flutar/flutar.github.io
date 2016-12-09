@@ -1,14 +1,9 @@
 ---
-title: "ETS 你凭啥给我这个分儿?"
 layout: post
-date: 2016-11-26 11:25
-headerImage: false
-tag:
-- TOEFL
-- Writing Score
-blog: true
-author: zhanchao
-description: Toefl writing score analysis
+title: "ETS 你凭啥给我这个分儿？"
+categories: [托福写作]
+description: 托福写作失分原因分析
+keywords: 托福写作评分
 ---
 
 #### ETS 你凭啥给我这个分儿?

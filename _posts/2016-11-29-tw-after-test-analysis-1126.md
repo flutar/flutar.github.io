@@ -1,14 +1,9 @@
 ---
-title: "11月26日托福写作考后分析"
 layout: post
-date: 2016-11-29 11:41
-headerImage: false
-tag:
-- 托福写作
-- 考后分析
-blog: true
-author: zhanchao
-description: 托福写作考后详细分析及段子套用
+title: "托福写作11月26日写作考后分析"
+categories: [托福写作]
+description: 托福写作11月26日写作考后分析
+keywords: 托福写作考后分析
 ---
 
 #### 独立写作
