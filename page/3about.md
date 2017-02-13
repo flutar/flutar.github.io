@@ -9,15 +9,14 @@ type: page
 * content
 {:toc}
 
-#### 关于我
+###### 关于我
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+* 2012.10-今 小马过河国际教育
 
-2012.10-今 小马过河国际教育
+###### 联系我
 
-#### 联系我
+大家有任何疑问都可以在我的网站留言，也可以通过知乎和我交流，希望我的回答对大家有所帮助
 
-* email：michael.yu@xiaoma.com
 * [Weibo](http://weibo.com/574145122)
 * [知乎](https://www.zhihu.com/people/yuzhanchao)
 
