@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "独立写作万能理由之压力"
-categories: [托福写作]
-description: 托福写作万能理由之压力
-keywords: 托福写作素材
+title:  独立写作万能理由之压力
+date:   2017-02-13 10:21:54
+categories: 托福写作
+tags: 写作素材
+excerpt: 独立写作最常用的展开素材-压力，及其使用示范
 ---
 
+* content
+{:toc}
 
 ### 独立写作满分必备万能理由之压力
 
