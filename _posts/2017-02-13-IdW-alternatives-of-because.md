@@ -116,6 +116,14 @@ Of the various hypotheses attempting to **account for** the late Cretaceous exti
 
 ---
 
+##### which explain why 
+
+The disadvantage of using waterpower is that streams do not necessarily flow in places that are the most suitable for factories, **which explains why** so many water-powered grain and textile mills were located in undesirable places. [6-1-1]
+
+使用水力的弊端是水流不一定通过适合工厂的地方，这解释了为什么如此多的水力驱动的谷物作坊和纺织厂都被放到了不太理想的位置。
+
+---
+
 大家可以收藏一下，我会持续在这个贴子更新，就暂时不开新帖了，便于大家学习。
 
 

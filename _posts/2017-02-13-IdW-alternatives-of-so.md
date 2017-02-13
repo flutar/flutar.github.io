@@ -34,10 +34,6 @@ In the 1760s, James Watt perfected a separate condenser for the steam, **so that
 
 Another generation passed before inventors succeeded in combining these ingredients, by putting the engine on wheels and the wheels on the rails, **so as to** provide a machine to take the place of the horse. [6-1-4]
 
-##### which explain why 
-
-The disadvantage of using waterpower is that streams do not necessarily flow in places that are the most suitable for factories, **which explains why** so many water-powered grain and textile mills were located in undesirable places. [6-1-1]
-
 
 
 
