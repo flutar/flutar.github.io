@@ -14,7 +14,7 @@ excerpt: 独立写作常用的表示原因的句式整理
 说理在各种写作中式必不可少的，而因果又是说理中不可或缺的。于是我就在下面汇总了 TPO 中常用的表示原因的一些表达，防止大家一个 because 一用到底。这个词没啥不好，但用多了自己也会觉得烦。大家有几个替换就行，不用搞的太多，多了也记不住。记得时候最好以句子为单位来记，效率高一些。
 ```
 
-**result from**
+##### result from
 
 In general, it is believed that these two extinctions **resulted from** drastic environmental changes that followed meteorite impacts or massive volcanic eruptions. [TPO 15-2-1]
 
@@ -24,7 +24,7 @@ In general, it is believed that these two extinctions **resulted from** drastic 
 
 ---
 
-**result primarily or mainly or largely from**
+##### result primarily or mainly or largely from
 
 The growth of independent guilds was furthered by the fact that surplus was not a result of domestic craft production but resulted primarily from international trading;
 
@@ -34,7 +34,7 @@ The growth of independent guilds was furthered by the fact that surplus was not 
 
 --- 
 
-**one of the most likely causes for**
+##### one of the most likely causes for
 
 Evidence **points to** hunting by humans and habitat destruction **as the likely causes for** the current mass extinction. [TPO 15-2-3]
 
@@ -44,7 +44,7 @@ Evidence **points to** hunting by humans and habitat destruction **as the likely
 
 ---
 
-**the explanation may be that**
+##### the explanation may be that
 
 The explanation may be that the terrestrial planets were once much larger and richer in these materials but eventually lost them because of these bodies' relative closeness to the Sun, which meant that their temperatures were relatively high. [TPO 16-3-6]
 
@@ -52,7 +52,7 @@ The explanation may be that the terrestrial planets were once much larger and ri
 
 ---
 
-**the most obvious reason for sb to do sth is that**
+##### the most obvious reason for sb to do sth is that
 
 Few have directly questioned what might lead a teacher to want to become reflective. Apparently, **the most obvious reason for ** teachers **to** work toward reflective practice **is that** teacher educators think it is a good thing. [TPO 9-2-6]
 
@@ -62,7 +62,7 @@ Few have directly questioned what might lead a teacher to want to become reflect
 
 ---
 
-**partly due to**
+##### partly due to
 
 This has been so since ancient times, **partly due to** the geology of the area, which is mostly limestone and sandstone, with few deposits of metallic ore and other useful materials. Ancient demands for obsidian (a black volcanic rock useful for making mirrors and tools) led to trade with Armenia to the north, while jade for cutting tools was brought from Turkistan, and the precious stone lapis lazuli was imported from Afghanistan. [TPO 16-1-1]
 
@@ -74,7 +74,7 @@ Such anomalies are due to the relative abundance of the "isotopes" or varieties 
 
 ---
 
-**because**
+##### because
 
 Because there is no space in the periodic table between these two elements, Mendeleyev suggested that the atomic mass of indium be changed to a completely different value, where it would fill an empty space between cadmium and tin. 
 
@@ -90,7 +90,7 @@ Pluto is not included in either category, because its great distance from Earth 
 
 ---
 
-**because of**
+##### because of
 
 The Jovian planets, because of their greater masses and thus higher surface gravities, have higher escape velocities (21-60 kilometers per second) than the terrestrial planets. [TPO 16-3-5] 
 
@@ -98,7 +98,7 @@ The Jovian planets, because of their greater masses and thus higher surface grav
 
 ---
 
-**be responsible for**
+##### be responsible for
 
 Variations in the composition of the planets are largely responsible for the density differences. [TPO 16-3-4] 
 
@@ -106,7 +106,7 @@ Variations in the composition of the planets are largely responsible for the den
 
 ---
 
-**account for**
+##### account for
 
 Of the various hypotheses attempting to **account for** the late Cretaceous extinctions, the one that has attracted the most attention in recent years is the asteroid-impact hypothesis first suggested by Luis and Walter Alvarez. [TPO 15-2-5] 
 
