@@ -7,7 +7,7 @@
 
 # Site settings
 title: GoAbroad
-brief-intro: An English Teacher
+brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://flutar.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username: yuzhanchao
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 不为别的，只为伴你出国！
+description_footer: Make English Learning Easier
 
 # comments
 # two ways to comment, only choose one, and use your own short name
