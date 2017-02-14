@@ -4,6 +4,7 @@ title:  独立写作万能理由之压力
 date:   2017-02-13 10:21:54
 categories: 托福写作
 tags: 写作素材
+author: Zhanchao Yu
 excerpt: 独立写作最常用的展开素材-压力，及其使用示范
 ---
 
