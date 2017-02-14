@@ -19,5 +19,6 @@ type: page
 
 * [Weibo](http://weibo.com/574145122)
 * [知乎](https://www.zhihu.com/people/yuzhanchao)
+* [知乎专栏](https://zhuanlan.zhihu.com/toefl)
 
 {% include comments.html %}
