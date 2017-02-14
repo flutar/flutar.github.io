@@ -4,14 +4,15 @@ layout: default
 
 <div class="page clearfix" index>
     <div class="left">
-
+        <h1>Welcome to HyG's Blog!</h1>
+        <small>这里记录着我的前端学习之路</small>
         <hr>
         <ul>
             {% for post in paginator.posts %}
               <li>
-                <h4>
+                <h2>
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h4>
+                </h2>
                 <div class="label">
                     <div class="label-card">
                         <i class="fa fa-calendar"></i>{{ post.date | date: "%F" }}
@@ -34,6 +35,9 @@ layout: default
                 </div>
                 <div class="excerpt">
                     {{post.excerpt}}
+                </div>
+                <div class="read-all">
+                    <a  href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-newspaper-o"></i>Read All</a>
                 </div>
                 <hr>
               </li>
