@@ -42,7 +42,7 @@ layout: default
                 {% for thisTag in page.tags %}
                     {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
                         {% if hasSimilar.size == 0 %}
-                        <h2 id="similar_posts">Similar Posts</h2>
+                        <h6 id="similar_posts">Similar Posts</h6>
                         <ul>
                         {% endif %}
                         <li class="relatedPost">
@@ -63,8 +63,9 @@ layout: default
         {% endif %}
 
         {% include previousAndNext.html %}
-
-        <h2 id="comments"></h2>
+        
+        <hr>
+        <h6 id="comments">Comments</h6>
         {% include comments.html %}
 
 
