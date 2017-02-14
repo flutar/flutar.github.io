@@ -6,13 +6,8 @@ icon: heart
 type: page
 ---
 
-* content
-{:toc}
-
 ##### 关于我
 
-* 2012.10-今 小马过河国际教育
-
-##### Comments
+* 2012.10-今 小马过河国际教育教师
 
 {% include comments.html %}
