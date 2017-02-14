@@ -5,7 +5,7 @@ date:   2017-02-13 13:56:54
 categories: 托福写作
 tags: 写作句式
 author: Zhanchao Yu
-excerpt: 独立写作常用的表示结果的句式整理
+excerpt: 独立写作常用的表示结果的表达整理
 
 ---
 
