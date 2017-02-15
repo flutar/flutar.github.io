@@ -106,7 +106,7 @@ Firstly, advancement in medical technology makes it possible that most common di
 
 Firstly, advancement in medical technology makes it possible that most common diseases can be controlled or cured more efficiently and effectively `as a result of which it has become much easier for parents today to raise childlren`. Along with the ever-accelerating developments of science and technology come major breakthroughs in various disciplines related to medical science like chemistry, biology and anatomy, the combination of which has been pushing medical science to a higher level. Scientists have found solutions to many diseases that used to be considered as fatal, therefore `children's` health condition can be ameliorated `which makes it easier for parents to provide them with better care`. For example, smallpox, eradicated nowadays, was once the deadliest disease in human history engulfing tens of thousands of `children's` lives. But with the invention of a certain targeted vaccine, people finally put an end to this rampant epidemic.
 
--------
+---
 
 >Agree or disagree,  the world is changing so quickly that people now are less happy or less satisfied than in the past ?
 
@@ -114,7 +114,7 @@ Firstly, advancement in medical technology makes it possible that most common di
 
 Firstly, advancement in medical technology makes it possible that most common diseases can be controlled or cured more efficiently and effectively `as a result of which people today are more satisfied than those in the past`. Along with the ever-accelerating developments of science and technology come major breakthroughs in various disciplines related to medical science like chemistry, biology and anatomy, the combination of which has been pushing medical science to a higher level. Scientists have found solutions to many diseases that used to be considered as fatal, therefore people's health condition can be ameliorated and average life expectancy be prolonged.  `Under this circumstance, the fact that people's level of satisfaction has increased dramatically is not a surprise.`
 
--------
+---
 
 > It is easier to become educated nowadays than in the past. 
 
