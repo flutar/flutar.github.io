@@ -1,23 +1,36 @@
 #markdown-toc {
     display: none;
 }
-.page[post] {
-    .label {
-        margin-top: 16px;
-        overflow: hidden;
-        .label-card {
-            float: left;
-            margin-right: 15px;
-            .point {
-                padding: 0 10px;
-                color: #9d9d9d;
-            }
-            i {
-                padding-right: 5px;
-                color: #6b6a6a;
-            }
+.page[post] 
+
+{
+    
+    .label 
+
+        {
+            margin-top: 16px;
+            overflow: hidden;
+            
+            .label-card 
+
+                {
+                    float: left;
+                    margin-right: 15px;
+                   
+                    .point 
+
+                        {
+                            padding: 0 10px;
+                            color: #9d9d9d;
+                        }
+                    
+                    i 
+                        {
+                            padding-right: 5px;
+                            color: #6b6a6a;
+                        }
+                }
         }
-    }
     
     a 
         {
@@ -33,48 +46,151 @@
     p 
         {
             text-align: justify;
-            margin-bottom:20px;
+            font-size:14px;
+            line-height:25px;
+            margin-bottom: 10px;
         }
+
+    * 
+        {
+            font-size:14px;
+        }
+
    
-    h1, h2, h3 
+    h1, h2
+
+        {
+            font-size: 26px;
+            border:none;
+        }
+
+    h3, h4
 
         {
             font-size: 16px;
+            font-weight:bold;
+
         }
 
-    h4, h5, h6 
-
+    h5, h6 
         {
             font-size: 14px;
+            font-weight:bold;
         }
-    
-    blockquote
-       {
-            padding-left: 5px；
-            border-left: 5px solid #eee；
-            text-align: justify；
-            margin-left: 0；
-            margin-right: 0；
-            margin-bottom: 20px；
-            margin-top: 20px；
-        }   
 
     pre
         {
-            box-sizing: border-box
-            margin: 0 0 1.75em 0
-            width: 100%
-            padding: 5px 10px
-            font-family: Helvetica, Arial
-            font-size: 14px
-            line-height: 2
-            overflow: auto
-            background: #eee
-            border: 1px solid $epsilon
-            border-radius: 10px
-            white-space: pre-wrap
-            word-wrap: break-word   
+            box-sizing: border-box;
+            margin: 0 0 1.75em 0;
+            width: 100%;
+            padding: 5px 10px;
+            font-family: Helvetica, Arial;
+            font-size: 14px;
+            line-height: 2;
+            overflow: auto;
+            background: #eee;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
         }
+
+pre
+    {
+        code 
+       
+       {
+            background-color: #eee;
+        }  
+    }   
+
+code
+        {
+            padding: 5px;
+            font-family: Helvetica, Arial;
+            line-height: 2;
+            color: #444;
+            background-color: #F3F3F3;
+            text-align: justify;
+            border:none;
+        }
+
+blockquote
+
+        {
+            padding-left: 5px;
+            border-left: 5px solid red;
+            text-align: justify;
+            margin-left: 0;
+            margin-right: 0;
+            margin-bottom: 20px;
+            margin-top: 20px;
+        }
+
+blockquote
+
+{   p
+
+        {
+            color: #666;
+            font-style: italic;
+            margin-bottom: 0px;
+        }
+}
+
+hr
+        {
+            border: none;
+            height: 1px;
+            margin: 25px;
+            background: #eee;
+            width: 100%;
+        }
+
+table 
+    {
+            border-collapse: collapse;
+            border-spacing: 0;
+            line-height: 2;
+            width: 100%;
+            layout: fixed;
+        tr 
+            {
+                background-color: white;
+               
+                &:hover td
+                    
+                    {
+                        background-color: #F4F4F4;
+                    }            
+        
+                &:nth-child(2n) 
+               
+                    {
+                        background-color: #F8F8F8;
+                    }     
+               
+                td
+                    {    
+                        text-align: justify;
+                    }    
+                
+                th
+                    {  
+                        margin: 0;
+                        padding: 0.5em 1em;
+                        font-weight: bold;
+                        background-color: #eee;
+                        color:black;
+                    }     
+            }    
+
+        th:nth-child(1)
+                {
+                    width: 25%;
+                }       
+    }
+
 
     .left {
         ul {
@@ -109,6 +225,7 @@
         // }
     }
 }
+
 @media screen and (max-width: 770px) {
     .page[post] {
         .left {

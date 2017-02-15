@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "独立写作模板及其示范"
+title:  "独立写作开头模板及其示范"
 date:   2017-02-12 17:36:54
 categories: 托福写作
 tags: 写作开头

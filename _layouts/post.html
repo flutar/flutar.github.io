@@ -4,11 +4,11 @@ layout: default
 
 <div class="page clearfix" post>
     <div class="left">
-        <h4>{{page.title}}</h4>
+        <h2>{{page.title}}</h2>
         <div class="label">
 
             <div class="label-card">
-                <i class="fa fa-calendar"></i>{{ page.date | date: "%F" }}
+                {{ page.date | date: "%F" }}
             </div>
 
             <div class="label-card">
@@ -42,7 +42,8 @@ layout: default
                 {% for thisTag in page.tags %}
                     {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
                         {% if hasSimilar.size == 0 %}
-                        <h2 id="similar_posts">Similar Posts</h2>
+                        <h4 id="similar_posts">相关文章</h4>
+                         <hr>
                         <ul>
                         {% endif %}
                         <li class="relatedPost">
@@ -62,7 +63,10 @@ layout: default
             </ul>
         {% endif %}
 
+     <hr>
         {% include previousAndNext.html %}
+ <hr>
+
 
         {% include comments.html %}
 
