@@ -104,7 +104,6 @@ excerpt: 独立写作最常用的展开素材-压力，及其使用示范
 
 本题是一个多元素的题目，我们当然可以不同意，我们只需要找到2个因素说它们比改善教育更重要就行了。自然第一个就是人们的健康。这样一来这个段子几乎不用改就可以直接用过来。在开头最后一句话大家最好写清楚：`there are at least two other aspects that carry more weight than improving schools. ` 这样一来整个一段话我们只需要再主题句上扣一下题就可以搞定了。
 
-
 It is high time that government should arouse people's awareness of the importance of physical soundness *the importance of which far outweighs that of improving schools*. Along with the acceleration of social development, people, especially young people, are confronted with unprecedentedly fierce competition. They need to work very hard to guarantee a decent life, which causes them way heavier pressures than before. Under such circumstances, most of them are prone to be caught in a sub-health state. Given that it is governments‘ responsibilities to improve citizens' health condition, governments should increase access to public exercise equipment in the neighborhood and raise people's awareness of the importance of doing exercises regularly through mass media.
 
 ---
@@ -112,7 +111,6 @@ It is high time that government should arouse people's awareness of the importan
 *Some people think we should follow our dreams, even if the dreams are ambitious. But other people think that we should focus on realistic goals. Which do you agree?*
 
 本题是一个两元素的题目，我们可以支持现实，第一个理由想到的就是压力。正因为压力大才要现实一点，先努力工作赚钱，提高生活质量，减少自己的生活压力。
-
 
 It is high time that people should *lay more stress on realistic goals and less on ambitious dreams in order to reduce pressure and improve their life quality*. Along with the acceleration of social development, people, especially young people, are confronted with unprecedentedly fierce competition. They need to work very hard to guarantee a decent life, which causes them way heavier pressures than before. Under such circumstances, most of them are prone to be caught in a sub-health state. *To no one's surprise, there is no better way for them to alleviate pressure and lead a better life than to give priority to realistic goals rather than ambitious dreams.*
 
