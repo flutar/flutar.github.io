@@ -164,6 +164,8 @@ excerpt: 综合写作基础介绍以及常见问题解答
 
 * 语言水平太低，无法读懂；
 
+---
+
 0
 
 > A response at this level merely copies sentences from the reading, rejects the topic or is otherwise not connected to the topic, is written in a foreign language, consists of key stroke characters, or is blank.
