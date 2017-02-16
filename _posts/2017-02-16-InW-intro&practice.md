@@ -137,8 +137,7 @@ excerpt: 综合写作基础介绍以及常见问题解答
 
 2.0
 
-> A response at this level contains some relevant information from the lecture, but is marked by significant language difficulties or by significant omission or inaccuracy of important ideas from the lecture or in the connections between the lecture and the reading; a response at this level is marked by one or more of the following:
-
+> A response at this level contains some relevant information from the lecture, but is marked by significant language difficulties or by significant omission or inaccuracy of important ideas from the lecture or in the connections between the lecture and the reading; a response at this level is marked by one or more of the following.
 > 1) The response significantly misrepresents or completely omits the overall connection between the lecture and reading.
 > 2) The response significantly omits or significantly misrepresents important points made in the lecture.
 > 3) The response contains language errors or expressions that largely obscure connections or meaning at key junctures, or that would likely obscure understanding of hey ideas for reader not already familiar with the reading and the lecture.
@@ -156,9 +155,7 @@ excerpt: 综合写作基础介绍以及常见问题解答
 1.0
 
 > A response at this level is marked by one or more of the following:
-
 > 1) The response provide little or no meaning or relevant coherent content form the lecture.
-
 > 2) The language level of the response is so low that it is difficult to deriver meaning.
 
 解析：
